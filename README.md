@@ -1,5 +1,12 @@
 # Battle.net API
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/benweier/battlenet-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+![Status: Deprecated](https://img.shields.io/badge/status-deprecated-red.svg?style=flat-square)
+
+### battlenet-api is now deprecated and no longer maintained. A ground-up rewrite is available at [blizzard.js](https://github.com/benweier/blizzard.js) featuring a major version number, a cleaner API, promises support, a test suite, richer documentation, and an example app.
+
+Please migrate to blizzard.js as any issues will be redirected.
+
+---
 
 A Node.JS library for the Battle.net Community Platform API.
 
