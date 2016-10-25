@@ -27,7 +27,7 @@
   },
   "main": "battlenet-api.js",
   "dependencies": {
-    "request": "^2.40.0",
+    "request": "^2.76.0",
     "extend": "^2.0.0"
   }
 }
